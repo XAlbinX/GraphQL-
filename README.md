@@ -3,7 +3,7 @@ React app with Apollo Client that shows a list of stations
 
 How to run : 
 
-1)Create a .env file inside client and add this line: DANGEROUSLY_DISABLE_HOST_CHECK=true 
+1) Create a .env file inside client and add this line: DANGEROUSLY_DISABLE_HOST_CHECK=true 
 
 
 2) Run npm install for server and for client from the respective directories
