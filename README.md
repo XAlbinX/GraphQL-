@@ -9,5 +9,5 @@ How to run :
 2) Nodemon app.js on server directory to run server
 
 
-3) Npm start on client cirectoy to run client
+3) Npm start on client directory to run client
 
